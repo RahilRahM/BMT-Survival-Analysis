@@ -28,5 +28,3 @@ Ensure Python and necessary libraries (e.g., pandas, scikit-learn) are installed
 ## 2. Run the Notebook:
 Open the provided Jupyter notebook (BONE_MARROW.ipynb).
 Execute the cells in sequence to preprocess the data, train models, and evaluate results.
-## 3. Evaluate Results:
-Review model performance metrics and learning curves to assess the effectiveness of each approach.
